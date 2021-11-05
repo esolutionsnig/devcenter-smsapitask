@@ -1,0 +1,29 @@
+{
+  "name": "devcentertest",
+  "version": "1.0.0",
+  "description": "DevCenter Test task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "martand",
+    "singh",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Ernest Ibeh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "request": "^2.88.2",
+    "express": "^4.17.1"
+  }
+}

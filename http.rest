@@ -1,0 +1,13 @@
+GET http://localhost:3000
+
+###
+
+POST http://localhost:3000/call
+Content-Type: application/json
+
+{
+  "from": "BulkSMSNG",
+  "to": "09155553377",
+  "body": "Welcome to DevCenter Innovations",
+  "api_token": "vAmatmR3gM8Mfqrpd7WTeroJDyf4fmqllHzxtK3XFk55SnAYnzIPVW6OVceu"
+}
